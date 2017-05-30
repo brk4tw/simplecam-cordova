@@ -1,0 +1,19 @@
+{
+  "name": "simplecam-cordova",
+  "version": "1.0.0",
+  "description": "A replacement for the default Cordova camera plugin on iOS - only tested on iPad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brk4tw/simplecam-cordova.git"
+  },
+  "author": "modohash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brk4tw/simplecam-cordova/issues"
+  },
+  "homepage": "https://github.com/brk4tw/simplecam-cordova#readme"
+}
